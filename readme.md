@@ -1,22 +1,17 @@
-# yeoman-welcome [![Build Status](https://travis-ci.org/yeoman/yeoman-welcome.svg?branch=master)](https://travis-ci.org/yeoman/yeoman-welcome)
+# feenix-welcome 
 
-> Yeoman welcome message used in generators
+> Yeoman welcome message used in generators, replaces the yeoman with the UI5 Phoenix
 
-![](screenshot.png)
+Based on yeoman-welcome [here](https://github.com/yeoman/yeoman-welcome)
 
+Currently WIP
 
 ## Install
 
-```sh
-$ npm install --save yeoman-welcome
-```
 
 
 ## Usage
 
-```js
-console.log(require('yeoman-welcome'));
-```
 
 
 ## License
